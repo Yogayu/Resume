@@ -1,0 +1,36 @@
+highlighter: pygments
+markdown: rdiscount
+rdiscount:
+  extensions: [smart]
+permalink: /:title.html
+paginate: 5
+gems: [jekyll-paginate]
+port: 4000
+safe: true
+url: http://azureyu.com/cv
+author: 游薪渝
+
+# edit this section with your information
+# biomadeira.github.io - all contents run on /vitae/
+# for a normal use at the base of the server change it to "/"
+baseurl: 
+title: 游薪渝的简历
+name: 游薪渝
+email: 1015701481@qq.com
+email_full: mailto:1015701481@qq.com
+website: https://azureyu.com
+website_full: https://azureyu.com
+github: yogayu
+twitter: yxydiscovery
+weibo: yxydiscovery
+tel: +86 18002334858
+tel_full: tel:+86 18002334858
+# google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+address: 永川区
+postcode: 401331
+city: 重庆
+country: 中国
+# google_analytics: UA-69300817-1
+
+# needed for travis-ci build
+exclude: [vendor]
