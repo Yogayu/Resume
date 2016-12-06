@@ -7,13 +7,13 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://azureyu.com/cv
+url: http://azureyu.com/cv/
 author: 游薪渝
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: 
+baseurl: http://azureyu.com/cv/
 title: 游薪渝的简历
 name: 游薪渝
 email: 1015701481@qq.com
@@ -25,8 +25,6 @@ twitter: yxydiscovery
 weibo: yxydiscovery
 tel: +86 18002334858
 tel_full: tel:+86 18002334858
-# google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
-# address: 永川区
 postcode: 401331
 city: 重庆市
 country: 中国
