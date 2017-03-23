@@ -13,6 +13,11 @@ body {
     margin-top: 50px;
 }
 
+section a {
+  padding-bottom:2px;
+  border-bottom:1px solid #27A822;
+}
+
 a {
     text-decoration: none;
     /*background-color: rgba(39, 168, 34, 0.06);*/

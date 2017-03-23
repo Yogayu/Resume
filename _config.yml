@@ -13,13 +13,13 @@ author: 游薪渝
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: http://azureyu.com/cv/
+# baseurl: http://azureyu.com
 title: 游薪渝的简历
 name: 游薪渝
-email: 1015701481@qq.com
-email_full: mailto:1015701481@qq.com
-website: https://azureyu.com
-website_full: https://azureyu.com
+email: youxinyu07@qq.com
+email_full: mailto:youxinyu07@qq.com
+website: http://azureyu.com
+website_full: http://azureyu.com
 github: yogayu
 twitter: yxydiscovery
 weibo: yxydiscovery
@@ -28,7 +28,7 @@ tel_full: tel:+86 18002334858
 postcode: 401331
 city: 重庆市
 country: 中国
-# google_analytics: UA-69300817-1
+google_analytics: UA-78816000-1
 
 # needed for travis-ci build
 exclude: [vendor]
