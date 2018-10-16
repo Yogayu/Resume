@@ -7,19 +7,19 @@ paginate: 5
 gems: [jekyll-paginate]
 port: 4000
 safe: true
-url: http://azureyu.com/cv/
+url: http://data2art.com/cv/
 author: 游薪渝
 
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: http://azureyu.com/cv/
+baseurl: http://data2art.com/cv/
 title: 游薪渝的简历
 name: 游薪渝
 email: youxinyu07@qq.com
 email_full: mailto:youxinyu07@qq.com
-website: http://azureyu.com
-website_full: http://azureyu.com
+website: http://data2art.com
+website_full: http://data2art.com
 github: yogayu
 twitter: yxydiscovery
 weibo: yxydiscovery
