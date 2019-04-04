@@ -13,21 +13,24 @@ author: 游薪渝
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /
+baseurl:
 title: 游薪渝的简历
 name: 游薪渝
-email: youxinyu07@qq.com
-email_full: mailto:youxinyu07@qq.com
+en_name: Xinyu You
+email: youxinyu07@gmail.com
+email_full: mailto:youxinyu07@gmail.com
 website: http://data2art.com
 website_full: http://data2art.com
 github: yogayu
+bio: Strong CS background.</br>Loving iOS and Data Science.<br>
 twitter: yxydiscovery
+LinkedIn: youxinyu
 weibo: yxydiscovery
-tel: +86 18002334858
-tel_full: tel:+86 18002334858
+tel: +86 17600733225
+tel_full: tel:+86 17600733225
 postcode: 401331
-city: 重庆市
-country: 中国
+city: ChangSha
+country: China
 google_analytics: UA-78816000-1
 
 # needed for travis-ci build
